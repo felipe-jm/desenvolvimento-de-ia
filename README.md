@@ -2,8 +2,8 @@
 
 # Projetos das aulas
 
-- [Estatística para Devs](/classes/estatistica_para_devs/estatistica_devs.ipynb)
-- [EDA (Exploratory Data Analysis)](/classes/eda/eda_churn.ipynb)
+- [Estatística para Devs](/lessons/estatistica_para_devs/estatistica_devs.ipynb)
+- [EDA (Exploratory Data Analysis)](/lessons/eda/eda_churn.ipynb)
 
 # Desafios
 
